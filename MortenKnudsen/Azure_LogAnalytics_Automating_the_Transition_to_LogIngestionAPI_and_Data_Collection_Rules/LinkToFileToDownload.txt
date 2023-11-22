@@ -1,1 +1,5 @@
+File: Azure LogAnalytics (v2) - Automating the Transition to Log Ingestion API and Data Collection Rules.pptx
+Author: Morten Knudsen (mok@mortenknudsen.net)
+
+Link to PPT-file
 https://myfamilynetwork-my.sharepoint.com/:p:/g/personal/mok_2linkit_net/EVygYBsi6Z5EqniFfvaZqQMB5sGlphuyiaPk6CHRog9iIA?e=YH2h7H
